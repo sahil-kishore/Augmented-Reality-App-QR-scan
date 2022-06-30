@@ -4,9 +4,9 @@ This is my marker-based Augmented Reality(AR) Android Application.
 MADE BY SAHIL 
 
 TO USE THE APP : 
-> Download and Install SahilAR.apk app.
-> Open the app , and scan faceQR.
-> AR will start ! 
+1. Download and Install SahilAR.apk app.
+2. Open the app , and scan faceQR.
+3. AR will start ! 
 
 
 THANKS .
